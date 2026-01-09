@@ -22,7 +22,7 @@
 }
 
 .btn:hover{
-  background-color: #28a15a;
+  background-color: #4f705d;
 }
 
 
@@ -129,22 +129,45 @@
     text-align: center;
     width: 71%;
     margin-top: -26px;
-    
-    
-    
-       
-  }
+    }
+
+
   #banner .banner-details p{
- 
+    
     font-size: 18px;
-    
-    
     text-align: center;
-    
+    }
 
+  .banner-button{
+   display: flex;
+    gap: 16px;
+  }
+  
+
+  .banner-button .button2{
+    background: transparent;
+    color: #ffffff;
+    border: 1px solid white;
+     border-radius: 4px;
+     padding: 16px;
+     
+    
   }
 
+
+ .banner-button .button2:hover{
+    background: #4f705d;
+    color: #ffffff;
+    border: 1px solid white;
+     border-radius: 4px;
+     padding: 16px;
     
+  }
+
+  .banner-button .button2 span{
+    margin-left: 10px;
+    font-size:16px;
+   }
     
     
 
