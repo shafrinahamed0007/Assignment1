@@ -184,12 +184,31 @@
     font-size:16px;
    }
 
+
+
+   /* Main Section */
    main{
-   
     margin: auto 120px;
-    background-color: green;
-    
-   }
+    justify-items: center;
+    margin-top: 120px;
+   
+  }
+
+  .node-content h2{
+    color: #001931;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+
+  }
+
+  .node-content p{
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #627382;
+
+  }
     
     
 
