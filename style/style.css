@@ -25,6 +25,8 @@
   background-color: #28a15a;
 }
 
+
+
 /* Nav Style */
 
 .nav-section{
@@ -57,3 +59,22 @@
   font-weight: 500;
   font-size: 16px;
 }
+
+
+/* Banner Section Style Start Here */
+
+#banner{
+ 
+  background-image: linear-gradient(rgba(0, 25, 49, 0.8)), url('/assets/hero-bg.png');
+  height: 674px;
+
+  
+}
+
+.banner-content{
+  background-color: green;
+  text-align: center;
+  /* margin: 115px 120px; */
+ 
+  
+ }
