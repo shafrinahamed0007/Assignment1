@@ -8,6 +8,23 @@
 }
 
 
+/* Shared Style */
+
+.btn{
+  background-color:#30B868;
+  border-radius: 4px;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 12px 16px;
+  border: none;
+
+}
+
+.btn:hover{
+  background-color: #28a15a;
+}
+
 /* Nav Style */
 
 .nav-section{
@@ -21,6 +38,7 @@
 
 .nav-section img{
   width: 139px;
+  
 }
 
 .nav-section .menu{
