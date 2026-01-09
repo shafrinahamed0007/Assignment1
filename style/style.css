@@ -71,15 +71,12 @@
 
 #banner{
  
-  background-image: linear-gradient(rgba(0, 25, 49, 0.8)), url('/assets/hero-bg.png');
+  background-image: linear-gradient(rgba(0, 25, 4, 0.1)), url('/assets/hero-bg.png');
    padding:  120px;
+  
   
  
 }
-
-
-
-
 
 .banner-content{
   
@@ -94,13 +91,10 @@
 
 .banner-content #banner-content-early{
   background-color: #ffffff;
-  height: 35px;
-  width: 229px;
   display: flex;
- 
   border-radius: 100px;
   padding: 8px;
-   color: #30B868;
+  color: #30B868;
   
   
   }
@@ -120,7 +114,8 @@
   /* Banner title */
 
   #banner .banner-title{
-    margin-top: 16px;
+    margin-top: -16px;
+    
   }
 
   #banner .banner-title h2 span{
@@ -128,9 +123,22 @@
   }
 
 
-
-
+  #banner .banner-details{
+    text-align: center;
+    width: 71%;
+    
+    
+       
+  }
+  #banner .banner-details p{
  
+    font-size: 18px;
+    text-align: center;
 
+    
+    
+    
+
+  }
 
 
