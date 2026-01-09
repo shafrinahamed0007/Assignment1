@@ -77,6 +77,14 @@
 
 /* Banner Section Style Start Here */
 
+#banner{
+ 
+  background-image: linear-gradient(rgba(0, 25, 4, 0.1)), url('/assets/hero-bg.png');
+    padding:  120px;
+   max-width: 100%;
+}
+  
+ 
 
   
   
