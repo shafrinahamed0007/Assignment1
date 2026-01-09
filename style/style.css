@@ -414,4 +414,17 @@ footer{
 }
 
 
+#footer-copyright hr{
+  margin-top: 80px;
+  border: 1px solid #062e53;
+}
+
+#footer-copyright p{
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+
 
