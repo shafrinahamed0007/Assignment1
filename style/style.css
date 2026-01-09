@@ -66,15 +66,48 @@
 #banner{
  
   background-image: linear-gradient(rgba(0, 25, 49, 0.8)), url('/assets/hero-bg.png');
-  height: 674px;
-
+   padding:  120px;
   
+ 
 }
 
+
+
 .banner-content{
-  background-color: green;
-  text-align: center;
-  /* margin: 115px 120px; */
- 
   
- }
+  text-align: center;
+   color: white;
+  
+   display: grid;
+   place-items: center;
+   
+   
+}
+
+.banner-content #banner-content-early{
+  background-color: #ffffff;
+  height: 35px;
+  width: 229px;
+  display: flex;
+ 
+  border-radius: 100px;
+  padding: 8px;
+   color: #30B868;
+  
+  
+  }
+
+  .banner-content #banner-content-early p{
+ 
+  font-size: 16px;
+  margin: 8px 12px;
+  }
+
+  .banner-content .icon{
+    margin: 12px auto;
+  
+  }
+ 
+
+
+
