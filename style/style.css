@@ -87,6 +87,7 @@
    place-items: center;
    
    
+   
 }
 
 .banner-content #banner-content-early{
@@ -95,6 +96,7 @@
   border-radius: 100px;
   padding: 8px;
   color: #30B868;
+ 
   
   
   }
@@ -114,7 +116,7 @@
   /* Banner title */
 
   #banner .banner-title{
-    margin-top: -16px;
+    margin-top: -26px;
     
   }
 
@@ -126,6 +128,8 @@
   #banner .banner-details{
     text-align: center;
     width: 71%;
+    margin-top: -26px;
+    
     
     
        
@@ -133,12 +137,17 @@
   #banner .banner-details p{
  
     font-size: 18px;
+    
+    
     text-align: center;
-
-    
-    
     
 
   }
+
+    
+    
+    
+
+
 
 
