@@ -191,10 +191,11 @@
     margin: auto 120px;
     justify-items: center;
     margin-top: 120px;
+    
    
   }
 
-  .node-content h2{
+  .note-content h2{
     color: #001931;
     font-size: 48px;
     font-weight: bold;
@@ -202,16 +203,16 @@
 
   }
 
-  .node-content p{
+ 
+
+  .note-content p{
     font-size: 16px;
-    line-height: 20px;
+    line-height: 28px;
     text-align: center;
     color: #627382;
+ 
+
 
   }
     
     
-
-
-
-
